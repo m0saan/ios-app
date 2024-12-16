@@ -19,7 +19,7 @@ Fast, high-quality generation. Good for:
 - Commercial projects (E-commerce, Shopify)
 - When you need very good results
 
-![FLUX1.1 Pro](Screenshot 2024-12-16 at 3.46.47 AM.png)
+![FLUX1.1 Pro](./assets/1.png)
 
 ## 2. Image Editing
 
@@ -29,9 +29,9 @@ Professional inpainting and outpainting. Good for:
 - Extending images beyond their borders
 - Seamless, natural edits
 
-![FLUX.1 Fill](Screenshot 2024-12-16 at 3.48.35 AM.png)
-![FLUX.1 Fill](Screenshot 2024-12-16 at 3.59.16 AM.png)
-![FLUX.1 Fill](Screenshot 2024-12-16 at 3.59.43 AM.png)
+![FLUX.1 Fill](./assets/2.png)
+![FLUX.1 Fill](./assets/6.png)
+![FLUX.1 Fill](./assets/7.png)
 
 ### FLUX.1 Depth & Canny
 Structure-preserving image editing. Good for:
@@ -39,9 +39,9 @@ Structure-preserving image editing. Good for:
 - Turning sketches into detailed images
 - Controlled style transfer
 
-![FLUX.1 Depth & Canny](Screenshot 2024-12-16 at 3.51.25 AM.png)
-![FLUX.1 Depth & Canny](Screenshot 2024-12-16 at 3.51.55 AM.png)
-![FLUX.1 Depth & Canny](Screenshot 2024-12-16 at 4.00.38 AM.png)
+![FLUX.1 Depth & Canny](assets/3.png)
+![FLUX.1 Depth & Canny](assets/4.png)
+![FLUX.1 Depth & Canny](assets/8.png)
 
 [FLUX.1 Depth →](https://replicate.com/black-forest-labs/flux-depth-pro)  
 [FLUX.1 Canny →](https://replicate.com/black-forest-labs/flux-canny-pro)
@@ -52,15 +52,15 @@ Image variations and restyling. Good for:
 - Mixing images with text prompts
 - Rapid iteration on designs
 
-![FLUX.1 Redux](Screenshot 2024-12-16 at 3.53.18 AM.png)
-![FLUX.1 Redux](Screenshot 2024-12-16 at 4.01.53 AM.png)
-![FLUX.1 Redux](Screenshot 2024-12-16 at 4.02.13 AM.png)
+![FLUX.1 Redux](assets/5.png)
+![FLUX.1 Redux](assets/9.png)
+![FLUX.1 Redux](assets/10.png)
 
 [Try FLUX.1 Redux →](https://replicate.com/black-forest-labs/flux-redux-dev)
 
 ## 3. Dreambooth
 
-![Dreambooth](Screenshot 2024-12-16 at 4.25.20 AM.png)  
+![Dreambooth](assets/11.png)  
 [DREAMBOOTH →](https://dreambooth.github.io/)
 
 ## 4. Remove Backgrounds
