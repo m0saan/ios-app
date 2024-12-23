@@ -91,3 +91,46 @@ These models let you generate realistic images, art, and avatars from a simple f
 - **Depth**: Use depth maps to generate images with realistic perspective.
 - **Redux**: An adapter for the FLUX.1 base models that you can use to create variations of images.
 
+
+
+## App Key Features:
+
+- AI Image Generator:    
+    - Transform your text into vivid visuals in styles like realism, anime, or illustrations.
+
+- Pro Editing Suite:
+    - Background Eraser: Precision removal of backgrounds.
+    - Object Remover
+    - Hair STyle changer (enhancer?)
+    - photo Colorize!?
+    - Cats & Dogs AI-ish stuff.
+    - Babies as well? Maybe.
+    - Image Enhancer: Upscale and refine your images to perfection.
+    - Style Remix: Capture and modify styles from any image.
+    - Image to Avatars, Pixar
+
+- Multilingual Magic:    
+    - Use the app in English, Spanish, German, Italian, French, etc. Prompts in your language, results in your vision.
+
+- Prompt Perfection:    
+    - Enhance your prompts for better image alignment with your ideas. (we can you another model to do this. quit easy)
+    
+- Share with Ease:
+    - Instantly share your AI-crafted art across social platforms.
+
+
+## Other Features
+1. Collaborative Creativity:
+  - Co-Creation Mode: Allow users to collaborate in real-time. One user can start with a prompt, and others can add or modify elements, leading to a shared final image.
+
+3. Personalization and Customization:
+  - User Style Profiles: Users can save preferred styles or themes, allowing for quick generation of images in their favorite aesthetics without redefining every prompt.
+  - AI Assistants for Personal Projects: Offer AI-guided project templates, like creating a series of images for a story or a comic strip.
+
+4. Interactive and Dynamic Content:
+  - Interactive Images: Create images where parts can be altered by the viewer (e.g., changing expressions, backgrounds, or items within the image).  
+  - Animated Stamps or GIFs: Beyond static images, allow users to create short animations or moving elements that can be used as stamps for social media or messaging apps.
+    
+5. Feedback Loop and Improvement:
+  - User Feedback Mechanism: Users can rate or review the AI's output, helping refine the model's understanding of user preferences over time.
+
