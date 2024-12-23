@@ -134,3 +134,8 @@ These models let you generate realistic images, art, and avatars from a simple f
 5. Feedback Loop and Improvement:
   - User Feedback Mechanism: Users can rate or review the AI's output, helping refine the model's understanding of user preferences over time.
 
+
+### Face swap:
+https://replicate.com/xiankgx/face-swap/
+
+
